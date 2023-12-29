@@ -11,8 +11,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | devstore',
-    default: 'devstore',
+    template: '%s | Dev Store',
+    default: 'Dev Store',
   },
 }
 
