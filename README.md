@@ -25,4 +25,6 @@ Projeto desenvolvido na plataforma Rocketseat que introduz os conceitos do frame
 - Route API
 - Testes e2e com Cypress
 
+> [Link do projeto no Figma](https://www.figma.com/file/qEtGVT4lWIvJJTuhEVbhlT/devstore-%E2%80%A2-Projeto-React-(Community)?type=design&node-id=18%3A813&mode=design&t=iohGFwWRQxXJ2T29-1)
+
 <img src="./.github/Cover.png" alt="Cover Dev Store" />
